@@ -1,7 +1,6 @@
-text-scripting-vba
-==================
+# EXCELで使用するマクロのメモ
 
-Modules for text scripting on VBA
+#### エクセルバージョン：2013
 
-See Alse: http://rsh.csh.sh/text-scripting-vba/ (Japanese only now)
-
+module にマクロのメモ <br />
+function に関数のメモ
